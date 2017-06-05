@@ -21,3 +21,9 @@ Android开源项目
 Android开源项目
 #https://fossdroid.com/
 #https://android-arsenal.com/
+
+#YaPlayer
+https://github.com/ymcao/YaPlayer
+
+#PLDroidPlayer
+https://github.com/pili-engineering/PLDroidPlayer
